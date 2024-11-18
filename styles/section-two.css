@@ -40,7 +40,7 @@
     
 
     background: linear-gradient(to right,rgba(7, 59, 203, 0.87)0%, rgba(227, 240, 228, 0.404)100%);
-    height: 798px;
+    height: 820px;
     width: 1000px;
     margin-top: 50px;
     margin-left: -730px;
@@ -147,22 +147,22 @@
     }
     .contact-details {
         margin-top: 10px;
-        margin-left: 75px;
+        margin-left: 35px;
         margin-right: 0;
     }
     .book {
-        margin-left: 105px;
+        margin-left: 85px;
     }
     .contacts-section{
         justify-content: center;
         margin-right: 30px;
     }
     .pammy-services {
-        width: 450px;
+        width: 400px;
         margin-left: 10px;
     }
     .about-us{
-        font-size: 46px;
+        font-size: 30px;
     }
     .service img{
         height: 300px;

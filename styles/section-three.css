@@ -113,12 +113,13 @@ footer {
         margin: 20px 5px;
     }
     .offers-grid div img{
-        height: 200px;
-        width: 220px;
+        height: 150px;
+        width: 150px;
     }
     .offers-grid div p,
     .gathering p{
         font-size: 25px;
+        left: 10px;
     }
     .gathering img{
         height: 250px;
@@ -127,13 +128,14 @@ footer {
     .gathering{
        
         top: 600px;
-        left: 120px;
+        left: 80px;
        
     }
     .birthday p{
         color:rgb(122, 3, 133);
-        left: 30px;
+        left: 20px;
         padding-right: 5px;
+        
     }
     footer {
         position: absolute;
